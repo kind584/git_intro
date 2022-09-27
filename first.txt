@@ -4,3 +4,4 @@
 3, git rm
 4, git status
 5, git diff
+6, git branch
